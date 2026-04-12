@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nguyen Hau</h1>
-<h3 align="center">🚀 Full-Stack Software Engineer | Backend | Microservices | DevOps</h3>
+<h3 align="center">🚀 Full-Stack Software Engineer | Microservices | DevOps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full-Stack+%2F+Backend+Engineer;Node.js+%7C+Go+%7C+TypeScript;Docker+%7C+CI%2FCD+%7C+Linux;Microservices+%7C+Scalable+Systems;Clean+Code+%7C+High+Performance" />
@@ -57,32 +57,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 🚀 Highlight
 
 - Build scalable backend services using **Go & Node.js**
@@ -101,15 +75,7 @@
   <a href="mailto:nguyenhaubatri2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-nguyenhaubatri2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## ✨ Quote
-
-<p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
-</p>
