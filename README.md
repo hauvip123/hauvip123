@@ -43,6 +43,8 @@
 ### 🗄️ Database
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🐧 DevOps & Tools
@@ -56,6 +58,7 @@
 ### 🧩 Architecture
 <p>
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=icloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
 
 ---
