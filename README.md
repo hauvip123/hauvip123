@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Software Engineer | Microservices | DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full-Stack+%2F+Backend+Engineer;Node.js+%7C+Go+%7C+TypeScript;Docker+%7C+CI%2FCD+%7C+Linux;Microservices+%7C+Scalable+Systems;Clean+Code+%7C+High+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full-Stack+%2F+Backend+Engineer;Node.js+%7C+Go+%7C+TypeScript;Docker+%7C+Linux;Microservices+%7C+Scalable+Systems;Clean+Code+%7C+High+Performance" />
 </p>
 
 ---
@@ -68,8 +68,6 @@
 - Develop microservices architecture
 - Work with MongoDB (NoSQL)
 - Use Docker for containerization
-- Setup CI/CD pipelines
-- Deploy & manage systems on Linux
 
 ---
 
