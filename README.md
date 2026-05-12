@@ -1,6 +1,6 @@
 # Nguyen Hau
 
 Software Engineer & Full-stack developer .  
-
-## Contact
+## Portfolio: https://portfolio-nine-peach-80.vercel.app/
+### Contact
 Email: nguyenhaubatri2020@gmail.com
